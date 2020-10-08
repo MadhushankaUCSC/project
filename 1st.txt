@@ -1,0 +1,48 @@
+<DOCTYPE html>
+<!-- comments -->
+<html lang='en'>
+<head>
+	<meta charset="UTF-8" />
+	<title>
+	Text Example
+	</title>
+
+<style>
+
+</style>
+</head>
+<body>
+<pre>
+
+
+<a href="">this</a>
+ is my 
+ first
+</pre>
+<p style="color:blue">hellow world</p>
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
